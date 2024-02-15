@@ -1,1 +1,1 @@
-# dense_nn
+# Multi-Image Classification with Neural Networks
